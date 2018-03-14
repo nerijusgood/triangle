@@ -22,7 +22,7 @@ yarn test
 yarn build
 ```
 
-Finally push: `surge ./build -d my-app.surge.sh`
+Finally push: `surge ./build -d triangle.surge.sh`
 
 ---
 
@@ -31,6 +31,8 @@ Finally push: `surge ./build -d my-app.surge.sh`
 Very simple app. Basically all code lies in components/home/index.js. For this case I used Preact (a minified React little brother), which is fully compatible with react, just simplified and tiny. 
 
 Based on Preact-starter-kit, I basically used their setup, have not spent time on custimzing anythig, therefore, lint, style (less) was inherited. I'd prefer `SASS` and use original `*.jsx`, but this is jut fine.
+
+From technical part, maybe it would be nice to create smart input with increments - no negative numbers, support for decimals, units(?)... A proper reusable number input component.
 
 ## Room for improvement
 
