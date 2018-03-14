@@ -32,7 +32,7 @@ Very simple app. Basically all code lies in components/home/index.js. For this c
 
 Based on Preact-starter-kit, I basically used their setup, have not spent time on custimzing anythig, therefore, lint, style (less) was inherited. I'd prefer `SASS` and use original `*.jsx`, but this is jut fine.
 
-## Space for improvement
+## Room for improvement
 
 Generally, there are quite a few things I would still love to update. Again, switch to `SASS`, use other css methodoly, like `SuitCSS`. For the fun of it, it would be pretty cool to draw triangle itself with Canvas API. Or maybe some nice drawing library.
 
