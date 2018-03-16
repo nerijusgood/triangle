@@ -1,4 +1,4 @@
-# Preact Triangle [![Build Status](https://travis-ci.org/developit/preact-boilerplate.svg?branch=master)](https://travis-ci.org/developit/preact-boilerplate) [![Preact Slack Community](https://preact-slack.now.sh/badge.svg)](https://preact-slack.now.sh)
+# Preact Triangle
 
 :guitar: Rock'n'triangle!
 
