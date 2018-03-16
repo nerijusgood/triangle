@@ -16,8 +16,10 @@ describe('components/home', () => {
 
 
 	it('should test if triangle returns right names', () => {
-		const home = <Home/>;
-		expect(home).to.contain(<p>Please enter a,b and c:</p>);
+		// const home = home;
+		// home.getTriangleType = jest.fn();
+
+		// Need to write some proper function matching
 	});
 
 });
