@@ -13,4 +13,11 @@ describe('components/home', () => {
 		const home = <Home/>;
 		expect(home).to.contain(<p>Please enter a,b and c:</p>);
 	});
+
+
+	it('should test if triangle returns right names', () => {
+		const home = <Home/>;
+		expect(home).to.contain(<p>Please enter a,b and c:</p>);
+	});
+
 });
